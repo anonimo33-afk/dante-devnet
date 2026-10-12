@@ -1,0 +1,19 @@
+{
+  "name": "Dante (prueba)",
+  "symbol": "DANTE",
+  "description": "Prototipo experimental de DANTE en Solana Devnet. Tokens de prueba sin valor economico.",
+  "image": "https://raw.githubusercontent.com/anonimo33-afk/dante-devnet/main/dante.png",
+  "external_url": "https://github.com/anonimo33-afk/dante-devnet",
+  "attributes": [
+    { "trait_type": "Red", "value": "Solana Devnet" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/anonimo33-afk/dante-devnet/main/dante.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
